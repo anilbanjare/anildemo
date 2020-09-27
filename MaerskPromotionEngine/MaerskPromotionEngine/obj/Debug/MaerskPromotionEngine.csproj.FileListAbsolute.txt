@@ -1,0 +1,10 @@
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\MaerskPromotionEngine.exe.config
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\MaerskPromotionEngine.exe
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\MaerskPromotionEngine.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\ClassLibrary1.dll
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\Repository.dll
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\ClassLibrary1.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\bin\Debug\Repository.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\obj\Debug\MaerskPromotionEngine.csprojResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\obj\Debug\MaerskPromotionEngine.exe
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\MaerskPromotionEngine\obj\Debug\MaerskPromotionEngine.pdb

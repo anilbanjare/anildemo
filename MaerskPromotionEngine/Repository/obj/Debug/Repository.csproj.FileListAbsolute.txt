@@ -1,0 +1,7 @@
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\bin\Debug\Repository.dll
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\bin\Debug\Repository.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\bin\Debug\ClassLibrary1.dll
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\bin\Debug\ClassLibrary1.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\obj\Debug\Repository.dll
+c:\users\anil\documents\visual studio 2015\Projects\MaerskPromotionEngine\Repository\obj\Debug\Repository.pdb
